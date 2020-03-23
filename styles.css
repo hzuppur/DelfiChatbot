@@ -1,0 +1,72 @@
+body {
+  font-size: 30px;
+  font-family: "Trebuchet MS", sans-serif;
+  background: #fafafa;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  width: 100%;
+}
+
+.userInput {
+  text-align: right;
+  background: green;
+  border-radius: 10px;
+  float: right;
+  padding: 5px;
+}
+
+.delfiInput {
+  background: #1992a9;
+  border-radius: 10px;
+  width: auto;
+  padding: 5px;
+}
+
+#header {
+  text-align: center;
+}
+
+#inputArea {
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: #1992a9;
+}
+
+.send {
+  width: 100px;
+  height: 60px;
+  border-radius: 10px;
+}
+
+.form-control {
+  height: 60px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+#chatArea {
+  margin-left: 100px;
+  width: 80%;
+  background: white;
+  border-radius: 10px;
+}
+
+input[type="text"]
+{
+  font-size:24px;
+}
+
+#skeem {
+  height: 150px;
+}
